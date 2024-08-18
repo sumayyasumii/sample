@@ -1,3 +1,3 @@
 # sample Repository
 
-A description
+This is a sample Repository
